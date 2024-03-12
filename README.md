@@ -1,5 +1,5 @@
 # [ICLR 2024] Robustifying and Boosting Training-Free Neural Architecture Search (RoBoT)
-This repository is the official implementation of [Robustifying and Boosting Training-Free Neural Architecture Search](https://openreview.net/forum?id=qPloNoDJZn).
+This repository is the official implementation of [Robustifying and Boosting Training-Free Neural Architecture Search](https://openreview.net/pdf?id=qPloNoDJZn).
 The DARTS space implementation is based on [Unifying and Boosting Gradient-Based Training-Free Neural Architecture Search](https://github.com/shuyao95/HNAS).
 
 
